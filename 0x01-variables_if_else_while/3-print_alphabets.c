@@ -9,10 +9,10 @@
 
 int main(void)
 {
-	char alpha = a;
-	char alphaUpper = A
+	char alpha = 'a';
+	char alphaUpper = 'A';
 	int ascii = 97;
-	int asciiUpper = 97
+	int asciiUpper = 97;
 
 	while (ascii < 123)
 	{
@@ -27,6 +27,6 @@ int main(void)
 		alphaUpper++;
 		asciiUpper++;
 	}
-	putchar ('\n')
+	putchar ('\n');
 	return (0);
 }

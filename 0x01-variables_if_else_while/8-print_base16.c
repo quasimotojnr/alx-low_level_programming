@@ -10,7 +10,7 @@ int main(void)
 {
 	int num = 0;
 	int ascii = 0;
-	char alpha = a;
+	char alpha = 'a';
 	int asciiAlpha = 0;
 
 	while (ascii < 10)
