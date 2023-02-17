@@ -7,8 +7,10 @@
  */
 int main(void)
 {
-	char alpha = a;
-	int ascii = 97;
+	char alpha;
+	int ascii;
+	alpha = a;
+	ascii = 97;
 
 	while (ascii < 123)
 	{
