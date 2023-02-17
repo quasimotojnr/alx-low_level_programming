@@ -9,6 +9,7 @@ int main(void)
 {
 	char alpha;
 	int ascii;
+
 	alpha = 'a';
 	ascii = 97;
 
