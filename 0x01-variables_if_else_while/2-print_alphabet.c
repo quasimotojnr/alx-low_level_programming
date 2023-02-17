@@ -9,7 +9,7 @@ int main(void)
 {
 	char alpha;
 	int ascii;
-	alpha = a;
+	alpha = 'a';
 	ascii = 97;
 
 	while (ascii < 123)
