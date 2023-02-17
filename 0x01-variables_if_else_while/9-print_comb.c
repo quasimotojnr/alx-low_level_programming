@@ -8,14 +8,14 @@
  */
 int main(void)
 {
-	int num = 0;
+	int num = 48;
 	int ascii = 0;
 
 	while (ascii < 10)
 	{
 		putchar(num);
-		putchar(44)
-		putchar(' ')
+		putchar(44);
+		putchar(' ');
 		num++;
 		ascii++;
 	}
