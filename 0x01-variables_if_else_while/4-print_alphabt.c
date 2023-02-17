@@ -14,9 +14,9 @@ int main(void)
 	while (ascii < 123)
 	{
 		putchar(alpha);
-		if (ascii == 101)
+		if (ascii = 101)
 		continue;
-		if (ascii == 113)
+		if (ascii = 113)
 		continue;
 		alpha++;
 		ascii++;

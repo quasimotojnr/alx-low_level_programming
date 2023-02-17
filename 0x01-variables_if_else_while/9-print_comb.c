@@ -16,7 +16,7 @@ int main(void)
 		putchar(num);
 		num++;
 		ascii++;
-		if (ascii == 9)
+		if (ascii == 10)
 		break;
 		putchar(44);
 		putchar(' ');
