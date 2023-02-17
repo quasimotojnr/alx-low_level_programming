@@ -14,10 +14,10 @@ int main(void)
 	while (ascii < 10)
 	{
 		putchar(num);
-		putchar(44);
-		putchar(' ');
 		num++;
 		ascii++;
+		putchar(44);
+		putchar(' ');
 	}
 	return (0);
 }

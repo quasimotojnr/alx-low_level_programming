@@ -22,7 +22,7 @@ int main(void)
 
 	while (asciiAlpha < 6)
 	{
-		putchar(num);
+		putchar(alpha);
 		alpha++;
 		asciiAlpha++;
 	}

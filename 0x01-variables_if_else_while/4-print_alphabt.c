@@ -13,13 +13,13 @@ int main(void)
 
 	while (ascii < 123)
 	{
+		putchar(alpha);
+		alpha++;
+		ascii++;
 		if (ascii == 101)
 		continue;
 		if (ascii == 113)
 		continue;
-		alpha++;
-		ascii++;
-		putchar(alpha);
 	}
 	putchar('\n');
 
