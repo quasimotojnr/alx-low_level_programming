@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 
-/*
- * void print_alphabet_x10 - function for printing alphabets 10 times
+/**
+ * print_alphabet_x10 - Prints the alphabets 10x
  *
- * Return: Always void.
+ * Return: void
  */
 void print_alphabet_x10(void)
 {

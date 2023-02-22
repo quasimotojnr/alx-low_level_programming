@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * print_alphabet(void) - function for printing alphabets.
+ * print_alphabet - Prints the alphabets
  *
- * Return: Always void.
+ * Return: void
  */
 void print_alphabet(void)
 {
