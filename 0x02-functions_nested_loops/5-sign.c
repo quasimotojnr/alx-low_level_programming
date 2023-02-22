@@ -21,7 +21,7 @@ int print_sign(int n)
 	}
 	else
 	{
-		printf(45);
+		printf("%c", 45);
 		return (-1);
 	}
 }
