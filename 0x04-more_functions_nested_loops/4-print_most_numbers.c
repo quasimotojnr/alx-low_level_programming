@@ -15,6 +15,8 @@ void print_most_numbers(void)
 	{
 		if (ascii == 2 || ascii == 4)
 		{
+			num++;
+			ascii++;
 			continue;
 		}
 		putchar(num);
