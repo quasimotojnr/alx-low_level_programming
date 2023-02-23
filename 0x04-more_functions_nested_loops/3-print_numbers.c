@@ -12,10 +12,10 @@ void print_numbers(void)
 
 	while (ascii < 10)
 	{
-		_putchar(num);
+		putchar(num);
 		num++;
 		ascii++;
 	}
-	_putchar('\n');
+	putchar('\n');
 }
 
