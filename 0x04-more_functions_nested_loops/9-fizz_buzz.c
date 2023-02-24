@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
  * main - Programme for all numbers from 1 to 100 with
@@ -46,5 +47,6 @@ int main(void)
 			num++;
 		}
 	}
+	putchar('\n');
 	return (0);
 }

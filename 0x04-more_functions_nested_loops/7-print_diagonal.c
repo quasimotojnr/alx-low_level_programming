@@ -7,12 +7,12 @@
  * Return: void
  */
 void print_diagonal(int n)
-}
+{
 	int count;
 	int space;
 	int spaceCount;
 
-	space = lines;
+	space = 0;
 	spaceCount = 0;
 	count = 0;
 

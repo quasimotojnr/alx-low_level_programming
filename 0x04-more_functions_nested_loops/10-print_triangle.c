@@ -15,7 +15,7 @@ void print_triangle(int size)
 	int hashCount;
 
 	hashCount = 0;
-	space = size;
+	space = size - 1;
 	spaceCount = 0;
 	count = 0;
 
@@ -24,8 +24,8 @@ void print_triangle(int size)
 		hash = count + 1;
 		while (spaceCount < space)
 		{
-			putchar(' ');
 			spaceCount++;
+			putchar(' ');
 		}
 		while (hashCount < hash)
 		{
