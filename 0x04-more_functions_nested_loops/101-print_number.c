@@ -51,4 +51,5 @@ void print_number(int n)
 	{
 		putchar(num + '0');
 	}
+	putchar(\n);
 }
