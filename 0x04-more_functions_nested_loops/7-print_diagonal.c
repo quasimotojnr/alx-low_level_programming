@@ -29,5 +29,6 @@ void print_diagonal(int n)
 		count++;
 		space++;
 	}
+
 }
 
