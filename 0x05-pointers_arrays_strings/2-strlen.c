@@ -10,7 +10,7 @@ int _strlen(char *s)
 {
 	int length;
 	int index;
-	int finalLenght
+	int finalLenght;
 
 	index = 0;
 	length = 0;
@@ -20,5 +20,5 @@ int _strlen(char *s)
 		index++;
 		length++;
 	}
-	finalLenght = lenght
+	finalLenght = lenght;
 	return (finalLenght);
