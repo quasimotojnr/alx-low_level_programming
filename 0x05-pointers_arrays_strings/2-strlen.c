@@ -20,5 +20,5 @@ int _strlen(char *s)
 		index++;
 		length++;
 	}
-	finalLenght = lenght;
+	finalLenght = length;
 	return (finalLenght);
