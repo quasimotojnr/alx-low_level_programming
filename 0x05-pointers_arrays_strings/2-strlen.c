@@ -22,3 +22,4 @@ int _strlen(char *s)
 	}
 	finalLenght = length;
 	return (finalLenght);
+}
