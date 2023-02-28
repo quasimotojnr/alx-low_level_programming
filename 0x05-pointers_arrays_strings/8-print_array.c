@@ -15,6 +15,7 @@ void print_array(int *a, int n)
 	int index;
 
 	length = n;
+	index = 0;
 
 	while (index < length)
 	{
