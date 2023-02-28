@@ -19,5 +19,7 @@ void puts2(char *str)
 	{
 		putchar(str[index]);
 		index = index + 2;
+	
 	}
+	putchar(32);
 }

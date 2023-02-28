@@ -20,4 +20,5 @@ void _puts(char *str)
 		putchar(str[index]);
 		index++;
 	}
+	putchar(32);
 }
