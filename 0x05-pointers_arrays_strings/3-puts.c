@@ -17,7 +17,7 @@ void _puts(char *str)
 
 	while (index < length)
 	{
-		_putchar(str[index]);
+		putchar(str[index]);
 		index++;
 	}
 	putchar(32);
