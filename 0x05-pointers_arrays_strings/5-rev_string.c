@@ -20,7 +20,7 @@ void rev_string(char *s)
 	index = 0;
 
 	while (index < midpoint)
-	}
+	{
 		oppChar = s[length - index - 1];
 		initChar = s[index];
 		s[index] = oppChar;
