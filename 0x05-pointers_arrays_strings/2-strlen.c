@@ -19,4 +19,4 @@ int _strlen(char *s)
 		index++;
 		length++;
 	}
-	return (length);
+	return i(length);

@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>
 
 /**
  * swap_int - Swaps the values of two variables using pointers
