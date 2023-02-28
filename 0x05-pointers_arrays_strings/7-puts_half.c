@@ -27,5 +27,5 @@ void puts_half(char *str)
 		putchar(str[index]);
 		index++;
 	}
-	putchar(32);
+	putchar(10);
 }

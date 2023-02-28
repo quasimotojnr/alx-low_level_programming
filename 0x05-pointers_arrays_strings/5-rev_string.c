@@ -27,5 +27,5 @@ void rev_string(char *s)
 		s[length - index - 1] = initChar;
 		index++;
 	}
-	putchar(32);
+	putchar(10);
 }

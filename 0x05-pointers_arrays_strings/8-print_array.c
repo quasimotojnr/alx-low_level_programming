@@ -25,5 +25,5 @@ void print_array(int *a, int n)
 		}
 		index++;
 	}
-	printf(32);
+	putchar(10);
 }

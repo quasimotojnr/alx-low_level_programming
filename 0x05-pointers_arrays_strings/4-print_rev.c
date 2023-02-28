@@ -20,5 +20,5 @@ void print_rev(char *s)
 		putchar(s[length - index - 1]);
 		index++;
 	}
-	putchar(32);
+	putchar(10);
 }
