@@ -21,10 +21,10 @@ void reverse_array(int *a, int n)
 	index = 0;
 	while (index < midpoint)
 	{
-		oppNum = a[lenght - index - 1];
+		oppNum = a[length - index - 1];
 		initNum = a[index];
 		a[index] = oppNum;
-		a[lenght - index - 1] = initNum;
+		a[length - index - 1] = initNum;
 		index++;
 	}
 }
